@@ -6,4 +6,4 @@ Right: moves player right
 A: shoot 
 
 
- https://gba.ninja/?autorun=Project.gba
+https://gba.ninja/?autorun=Project.gba
