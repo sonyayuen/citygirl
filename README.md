@@ -1,3 +1,8 @@
+#Final Project for CS2261 at Georgia Tech
+Sonya Yuen
+
+
+----------------
 Key Functions:
 
 Up: Jump/Moves player up if ladder present
