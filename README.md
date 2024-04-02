@@ -8,7 +8,9 @@ City Girl is a Game Boy Advance game made for a final project in the Media Devic
 
 Become a City Girl and collect all the keys to win!
 
----
+# Play Online
+https://gba.ninja/?autorun=https://sonyayuen.github.io/citygirl/Project.gba
+Press run anyway to play!
 
 # Key Functions:
 
@@ -37,6 +39,6 @@ Hit a specific wall with a flower bullet and find the secret hallway! (P.S. it m
 ![gameplay screenshot](/images/trafficjump.png)
 ![gameplay screenshot](/images/brokenkey.png)
 
-https://gba.ninja/?autorun=Project.gba
 
-https://gba.ninja/?autorun=Project.gba
+
+https://gba.ninja/?autorun=Project.gba](https://gba.ninja/?autorun=https://sonyayuen.github.io/citygirl/Project.gba)
