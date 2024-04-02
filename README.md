@@ -1,7 +1,6 @@
 # Final Project for CS2261 at Georgia Tech
-![gameplay screenshot](/images/gameplay1.png)
 
-Sonya Yuen
+![gameplay screenshot](/images/gameplay1.png)
 
 # City Girl
 
@@ -32,6 +31,11 @@ A: shoot
 Hit a specific wall with a flower bullet and find the secret hallway! (P.S. it may be near the beginning of the game)
 
 # Pictures
+
+![gameplay screenshot](/images/gameplay1.png)
+![gameplay screenshot](/images/landingpage.png)
+![gameplay screenshot](/images/trafficjump.png)
+![gameplay screenshot](/images/brokenkey.png)
 
 https://gba.ninja/?autorun=Project.gba
 
