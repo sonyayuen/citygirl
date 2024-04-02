@@ -1,4 +1,5 @@
 # Final Project for CS2261 at Georgia Tech
+![gameplay screenshot](/assets/images/gameplay1.png)
 
 Sonya Yuen
 
